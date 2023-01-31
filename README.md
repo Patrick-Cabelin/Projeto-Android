@@ -5,5 +5,6 @@ Onde foram aplicado os conceitos básico de HTML e CSS
 - Primeiro contato com layout responsivo 
 - tag semâtica
 - Uso de vídeos
+- fontes externo
 
 deploy: https://patrick-cabelin.github.io/Projeto-Android/
